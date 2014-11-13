@@ -1,0 +1,26 @@
+{
+  "name": "troopjs-widget-quickstart",
+  "main": "main.js",
+  "version": "0.0.0",
+  "authors": [
+    "Mikael Karon"
+  ],
+  "description": "TroopJS Widget QuickStart",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "troopjs",
+    "troopjs-widget",
+    "quickstart"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "bower_components"
+  ],
+  "dependencies": {
+    "troopjs-widget": "1.0.0-pr.1"
+  }
+}
