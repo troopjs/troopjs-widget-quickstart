@@ -21,6 +21,6 @@
     "bower_components"
   ],
   "dependencies": {
-    "troopjs-widget": "1.0.0-pr.1"
+    "troopjs-widget": "1.0.0-pr.2"
   }
 }
