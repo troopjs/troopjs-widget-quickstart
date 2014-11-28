@@ -1,7 +1,6 @@
 {
   "name": "troopjs-widget-quickstart",
   "main": "main.js",
-  "version": "0.0.0",
   "authors": [
     "Mikael Karon"
   ],
@@ -18,9 +17,13 @@
   "private": true,
   "ignore": [
     "**/.*",
-    "bower_components"
+    "bower_components",
+    "node_modules"
   ],
   "dependencies": {
-    "troopjs-widget": "1.0.0-pr.2"
+    "troopjs-widget": "^1"
+  },
+  "devDependencies": {
+    "requirejs": "^2.1"
   }
 }
