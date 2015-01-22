@@ -32,8 +32,8 @@ module.exports = function(grunt) {
 						"name": "troopjs-widget-quickstart/main",
 						"exclude": [
 							"jquery",
-							"when",
-							"poly"
+							"when/when",
+							"poly/es5"
 						],
 						"excludeShallow": [
 							"troopjs-widget-quickstart/main"
