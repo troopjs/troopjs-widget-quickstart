@@ -1,6 +1,8 @@
 define([
-	"./version",
-	"./widget"
+  "./version",
+  "./widget"
 ], function (version) {
-	return version;
+  "use strict";
+
+  return version;
 });
